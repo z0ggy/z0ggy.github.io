@@ -104,7 +104,7 @@
 /* lower ::first-letter of i paragraph and upper last letter */
 .card-paragraph i:first-child {
     top: -10%;
-    margin-left :5px;
+    margin-right :5px;
 }
 
 .card-paragraph i:last-child {
